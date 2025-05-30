@@ -1,0 +1,4 @@
+- Getting Started
+  - [Home](/README.md)
+- C# Service Guidelines
+  - [Service Class Structuring](dev-help-docs/dotnet-coding-guidelines.md)
