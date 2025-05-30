@@ -2,4 +2,3 @@
   - [Home](/README.md)
 - Best Practices
   - [Service Class Structuring](/best-practices/service-structuring.md)
-
